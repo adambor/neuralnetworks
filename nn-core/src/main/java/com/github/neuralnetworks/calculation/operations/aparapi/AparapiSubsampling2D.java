@@ -2,7 +2,7 @@ package com.github.neuralnetworks.calculation.operations.aparapi;
 
 import java.util.List;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.architecture.Connections;
 import com.github.neuralnetworks.architecture.Layer;
 import com.github.neuralnetworks.architecture.Subsampling2DConnection;

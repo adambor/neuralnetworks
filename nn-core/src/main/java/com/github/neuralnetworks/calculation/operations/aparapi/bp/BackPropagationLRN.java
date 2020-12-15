@@ -3,7 +3,7 @@ package com.github.neuralnetworks.calculation.operations.aparapi.bp;
 import java.util.List;
 import java.util.Map;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.architecture.Connections;
 import com.github.neuralnetworks.architecture.Layer;
 import com.github.neuralnetworks.architecture.RepeaterConnection;

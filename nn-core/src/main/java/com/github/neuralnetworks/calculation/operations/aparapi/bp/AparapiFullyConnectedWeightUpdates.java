@@ -1,6 +1,6 @@
 package com.github.neuralnetworks.calculation.operations.aparapi.bp;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.architecture.Connections;
 import com.github.neuralnetworks.architecture.FullyConnected;
 import com.github.neuralnetworks.tensor.Matrix;

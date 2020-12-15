@@ -1,6 +1,6 @@
 package com.github.neuralnetworks.calculation.operations.aparapi.bp;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.calculation.operations.TensorFunction.TensorFunctionDerivative;
 import com.github.neuralnetworks.tensor.Tensor;
 import com.github.neuralnetworks.util.Environment;

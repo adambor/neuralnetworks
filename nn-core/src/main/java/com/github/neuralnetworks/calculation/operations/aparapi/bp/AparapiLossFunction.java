@@ -2,7 +2,7 @@ package com.github.neuralnetworks.calculation.operations.aparapi.bp;
 
 import java.io.Serializable;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.tensor.Tensor;
 
 /**

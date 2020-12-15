@@ -1,6 +1,6 @@
 package com.github.neuralnetworks.builder.designio.protobuf.nn.mapping;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.builder.NeuralNetworkBuilder;
 import com.github.neuralnetworks.builder.designio.protobuf.nn.NNProtoBufWrapper;
 import com.github.neuralnetworks.builder.designio.protobuf.nn.TrainerProtoBufWrapper;

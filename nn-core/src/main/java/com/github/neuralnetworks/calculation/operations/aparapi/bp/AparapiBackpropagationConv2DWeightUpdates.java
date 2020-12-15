@@ -1,6 +1,6 @@
 package com.github.neuralnetworks.calculation.operations.aparapi.bp;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.architecture.Conv2DConnection;
 import com.github.neuralnetworks.tensor.Tensor;
 import com.github.neuralnetworks.tensor.TensorFactory;

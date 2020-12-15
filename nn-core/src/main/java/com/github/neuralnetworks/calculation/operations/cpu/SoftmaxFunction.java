@@ -1,6 +1,6 @@
 package com.github.neuralnetworks.calculation.operations.cpu;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.calculation.operations.TensorFunction;
 import com.github.neuralnetworks.tensor.Matrix;
 import com.github.neuralnetworks.tensor.Tensor;

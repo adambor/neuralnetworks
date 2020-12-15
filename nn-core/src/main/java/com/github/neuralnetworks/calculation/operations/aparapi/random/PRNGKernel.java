@@ -1,6 +1,6 @@
 package com.github.neuralnetworks.calculation.operations.aparapi.random;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 
 /**
  * Pseudo Random Number Generator Kernel

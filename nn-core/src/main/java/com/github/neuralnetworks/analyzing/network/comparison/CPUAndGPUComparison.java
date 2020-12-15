@@ -6,7 +6,7 @@ import java.util.Random;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.builder.NeuralNetworkBuilder;
 import com.github.neuralnetworks.builder.activation.ActivationType;
 import com.github.neuralnetworks.builder.layer.ConvolutionalLayerBuilder;

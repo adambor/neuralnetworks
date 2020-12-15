@@ -2,7 +2,7 @@ package com.github.neuralnetworks.util;
 
 import java.io.Serializable;
 
-import com.amd.aparapi.Kernel.EXECUTION_MODE;
+import com.aparapi.Kernel.EXECUTION_MODE;
 import com.github.neuralnetworks.calculation.operations.aparapi.KernelExecutionStrategy;
 import com.github.neuralnetworks.calculation.operations.aparapi.KernelExecutionStrategy.CPUKernelExecution;
 import com.github.neuralnetworks.calculation.operations.aparapi.KernelExecutionStrategy.DefaultKernelExecution;

@@ -3,7 +3,7 @@ package com.github.neuralnetworks.calculation.operations.aparapi;
 import java.util.Arrays;
 import java.util.List;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.architecture.Connections;
 import com.github.neuralnetworks.architecture.Conv2DConnection;
 import com.github.neuralnetworks.architecture.Layer;

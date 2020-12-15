@@ -2,7 +2,7 @@ package com.github.neuralnetworks.analyzing.network.comparison;
 
 import java.util.Random;
 
-import com.amd.aparapi.Kernel;
+import com.aparapi.Kernel;
 import com.github.neuralnetworks.architecture.NeuralNetwork;
 import com.github.neuralnetworks.architecture.NeuralNetworkImpl;
 import com.github.neuralnetworks.builder.NeuralNetworkBuilder;
